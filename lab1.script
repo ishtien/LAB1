@@ -1,0 +1,49 @@
+Script started on 2017年03月10日 (週五) 10時23分02秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m whoami;pwd
+pd2vm
+/home/pd2vm/LAB1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m git cong[Kfig -l
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/ishtien/LAB1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m git clone https://github.com/<your[K[K[K[Kishtien>/lab1.git
+bash: ishtien: No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m git clone https://github.com/<ishtien>/lab1.git[C[1P1.git[1P1.git[1P1.gitL1.gitA1.gitB1.git
+bash: ishtien: No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m S[Kscript LAB1.script
+Script started, file is LAB1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m whoami;pwd
+pd2vm
+/home/pd2vm/LAB1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m git config -l
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/ishtien/LAB1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m git config -l[3Pwhoami;pwdgit push -u origin masterremote add origin https://github.com/ishtien//LAB1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m [C[C[C[C[20Pcommit -m "first commit"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/ishtien//LAB1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m [C[C[C[C[20Pcommit -m "first commit"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Padd README.mdinit[Kecho "# LAB1" >> README.mdcd LAB1[K[3@mkdir[C[C[C[C[Cgit remote add origin https://github.com/ishtien//LAB1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m mkdir LAB1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd[C[C[C[C[Cecho "# LAB1" >> README.mdgit init[Kadd README.mdcommit -m "first commit"remote add origin https://github.com/ishtien//LAB1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m [C[C[C[C[23Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pwhoami;pwdgit config -l[Kgit clone https://github.com/<>[C[K[Kishtien/LAB1.G[Kgit
+Cloning into 'LAB1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m cat [K[K[K[KScript done, file is LAB1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m cat LAB1.script
+Script started on 2017年03月10日 (週五) 10時25分31秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m whoami;pwd
+pd2vm
+/home/pd2vm/LAB1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m git config -l
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/ishtien/LAB1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/LAB1 $[00m git config -l[3Pwhoam
